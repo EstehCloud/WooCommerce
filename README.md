@@ -1,6 +1,7 @@
 # WooCommerce
 Sambil minum esteh.
-
+Judul:
+Make Add To Cart button text lighter
 
 
 
