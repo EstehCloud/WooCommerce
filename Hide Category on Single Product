@@ -1,0 +1,7 @@
+.single-product .product_meta {
+display: none;
+}
+if css not work try add !important afte none;
+.single-product .product_meta {
+display: none !important;
+}
